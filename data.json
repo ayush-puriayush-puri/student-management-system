@@ -1,0 +1,78 @@
+{
+  "admin": [
+    {
+      "username": "admin",
+      "password": "admin123"
+    }
+  ],
+  "students": [
+    {
+      "student_id": 1,
+      "student_name": "AYUSH PURI",
+      "age": 19,
+      "department": "CSE"
+    },
+    {
+      "student_id": 101,
+      "student_name": "AYUSH",
+      "age": 19,
+      "department": "CSE"
+    },
+    {
+      "student_id": 102,
+      "student_name": "Maxtern",
+      "age": 18,
+      "department": "CSE"
+    },
+    {
+      "student_id": 103,
+      "student_name": "George",
+      "age": 19,
+      "department": "CSE"
+    },
+    {
+      "student_id": 104,
+      "student_name": "Aditya",
+      "age": 20,
+      "department": "CSE"
+    },
+    {
+      "student_id": 105,
+      "student_name": "Kunal",
+      "age": 19,
+      "department": "CSE"
+    },
+    {
+      "student_id": 106,
+      "student_name": "SAM",
+      "age": 23,
+      "department": "AIML"
+    }
+  ],
+  "attendance": [
+    {
+      "id": 1,
+      "student_id": 101,
+      "attendance_date": "2007-03-23",
+      "status": "present"
+    }
+  ],
+  "marks": [
+    {
+      "student_id": 101,
+      "PPS": 23,
+      "AEP": 23,
+      "ESE": 26,
+      "ODVC": 23,
+      "BEE": 25
+    },
+    {
+      "student_id": 102,
+      "PPS": 23,
+      "AEP": 23,
+      "ESE": 23,
+      "ODVC": 23,
+      "BEE": 23
+    }
+  ]
+}
